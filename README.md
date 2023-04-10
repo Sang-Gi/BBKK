@@ -28,6 +28,8 @@
 
 ### 8. [**실행 방법**](#실행-방법)
 
+### 8. [**시연 시나리오 보러가기**](#https://github.com/Sang-Gi/BBKK/blob/main/exec/A204_4_%EC%8B%9C%EC%97%B0%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)
+
 <br />
 
 <div id="1"></div>
@@ -49,7 +51,7 @@
 
 <br />
 
-# 🛠 기술 스택
+# 🛠기술 스택
 
 ## FrontEnd
 
@@ -95,7 +97,7 @@
 
 <div id="3"></div>
 
-# 💡 주요 기능
+# 💡주요 기능
 
 - **전국의 모든 방탈출 테마 정보 제공**
 
@@ -142,7 +144,7 @@
 - **ERD**
 
   <img src="./assets/readme/ERD.png" alt="ERD" width="600px" >
-  
+
 <br />
 
 - **추천 Sequence Diagram**
@@ -179,7 +181,7 @@
 
 <br />
 
-# 💻 실행 방법
+# 💻실행 방법
 
 **Client 실행**
 
