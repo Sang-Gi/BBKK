@@ -28,7 +28,7 @@
 
 ### 8. [**실행 방법**](#실행-방법)
 
-### 8. [**시연 시나리오 보러가기**](#https://github.com/Sang-Gi/BBKK/blob/main/exec/A204_4_%EC%8B%9C%EC%97%B0%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)
+### 🎞[**시연 시나리오 보러가기**](https://github.com/Sang-Gi/BBKK/blob/main/exec/A204_4_%EC%8B%9C%EC%97%B0%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)
 
 <br />
 
